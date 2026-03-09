@@ -3655,6 +3655,22 @@
           }
         }
       },
+      "theGreenFlame": {
+        "value": {
+          "id": "theGreenFlame",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
       "luckyFish": {
         "value": {
           "id": "luckyFish",
@@ -3668,14 +3684,37 @@
           }
         }
       },
-      "theGreenFlame": {
+      "arenaRider": {
         "value": {
-          "id": "theGreenFlame",
+          "id": "arenaRider",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "glider": {
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "majorSpeed": {
+        "value": {
+          "id": "majorSpeed",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "marbleous": {
+        "value": {
+          "id": "marbleous",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
               "value": true
             },
             "doubleJump": {

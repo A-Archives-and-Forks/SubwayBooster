@@ -83,6 +83,10 @@
         "id": "yutani_graffiti_portrait",
         "isSeen": true
       },
+      "yutani_illustration_portrait": {
+        "id": "yutani_illustration_portrait",
+        "isSeen": true
+      },
       "yutani_portrait": {
         "id": "yutani_portrait",
         "isSeen": true
@@ -153,6 +157,10 @@
       },
       "dog_graffiti_portrait": {
         "id": "dog_graffiti_portrait",
+        "isSeen": true
+      },
+      "lorcan_graffiti_portrait": {
+        "id": "lorcan_graffiti_portrait",
         "isSeen": true
       },
       "guard_graffiti_portrait": {
@@ -343,12 +351,12 @@
         "id": "eightball_jake_illustration_portrait",
         "isSeen": true
       },
-      "lorcan_graffiti_portrait": {
-        "id": "lorcan_graffiti_portrait",
-        "isSeen": true
-      },
       "mrgobbles_illustration_portrait": {
         "id": "mrgobbles_illustration_portrait",
+        "isSeen": true
+      },
+      "vittorio_illustration_portrait": {
+        "id": "vittorio_illustration_portrait",
         "isSeen": true
       }
     }

@@ -67,18 +67,12 @@
           ]
         }
       },
-      "spike": {
+      "bsPointyGuy": {
         "value": {
-          "id": "spike",
+          "id": "bsPointyGuy",
           "ownedOutfits": [
             {
               "value": "default"
-            },
-            {
-              "value": "rockOutfit"
-            },
-            {
-              "value": "punkOutfit"
             }
           ]
         }
@@ -2156,6 +2150,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "centurionOutfit"
             }
           ]
         }
@@ -3056,6 +3053,82 @@
           ]
         }
       },
+      "eightBallJake": {
+        "value": {
+          "id": "eightBallJake",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "bsElegantGirl": {
+        "value": {
+          "id": "bsElegantGirl",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "bsToughGuy": {
+        "value": {
+          "id": "bsToughGuy",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "spike": {
+        "value": {
+          "id": "spike",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "rockOutfit"
+            },
+            {
+              "value": "punkOutfit"
+            }
+          ]
+        }
+      },
+      "bsBeardedGuy": {
+        "value": {
+          "id": "bsBeardedGuy",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "bsSkullGuy": {
+        "value": {
+          "id": "bsSkullGuy",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "bsFastGirl": {
+        "value": {
+          "id": "bsFastGirl",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "almaBrava": {
         "value": {
           "id": "almaBrava",
@@ -3069,6 +3142,66 @@
       "mateo": {
         "value": {
           "id": "mateo",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsRed": {
+        "value": {
+          "id": "amongUsRed",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsYellow": {
+        "value": {
+          "id": "amongUsYellow",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsBlack": {
+        "value": {
+          "id": "amongUsBlack",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsCyan": {
+        "value": {
+          "id": "amongUsCyan",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsRose": {
+        "value": {
+          "id": "amongUsRose",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsGreen": {
+        "value": {
+          "id": "amongUsGreen",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3172,6 +3305,16 @@
           ]
         }
       },
+      "rosalita": {
+        "value": {
+          "id": "rosalita",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "lorcan": {
         "value": {
           "id": "lorcan",
@@ -3192,9 +3335,9 @@
           ]
         }
       },
-      "amongUsBlack": {
+      "vittorio": {
         "value": {
-          "id": "amongUsBlack",
+          "id": "vittorio",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3202,52 +3345,15 @@
           ]
         }
       },
-      "amongUsCyan": {
+      "enzo": {
         "value": {
-          "id": "amongUsCyan",
+          "id": "enzo",
           "ownedOutfits": [
             {
               "value": "default"
-            }
-          ]
-        }
-      },
-      "amongUsGreen": {
-        "value": {
-          "id": "amongUsGreen",
-          "ownedOutfits": [
+            },
             {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "amongUsRed": {
-        "value": {
-          "id": "amongUsRed",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "amongUsRose": {
-        "value": {
-          "id": "amongUsRose",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "amongUsYellow": {
-        "value": {
-          "id": "amongUsYellow",
-          "ownedOutfits": [
-            {
-              "value": "default"
+              "value": "gladiatorOutfit"
             }
           ]
         }
@@ -3275,76 +3381,6 @@
       "bonnieThumperOutfit": {
         "value": {
           "id": "bonnieThumperOutfit",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "bsBeardedGuy": {
-        "value": {
-          "id": "bsBeardedGuy",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "bsElegantGirl": {
-        "value": {
-          "id": "bsElegantGirl",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "bsFastGirl": {
-        "value": {
-          "id": "bsFastGirl",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "bsPointyGuy": {
-        "value": {
-          "id": "bsPointyGuy",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "bsSkullGuy": {
-        "value": {
-          "id": "bsSkullGuy",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "bsToughGuy": {
-        "value": {
-          "id": "bsToughGuy",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "eightBallJake": {
-        "value": {
-          "id": "eightBallJake",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3505,16 +3541,6 @@
       "raniUrbanVibesOutfit": {
         "value": {
           "id": "raniUrbanVibesOutfit",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "rosalita": {
-        "value": {
-          "id": "rosalita",
           "ownedOutfits": [
             {
               "value": "default"

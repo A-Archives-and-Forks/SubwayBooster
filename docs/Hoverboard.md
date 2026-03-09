@@ -306,3 +306,6 @@
 | Fire Starter | `fireStarter` |
 | Xtra Cool | `xtraCool` |
 | Turbo Love | `turboLove` |
+| Gold Rush | `goldRush` |
+| The Green Flame | `theGreenFlame` |
+| Lucky Fish | `luckyFish` |

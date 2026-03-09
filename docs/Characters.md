@@ -4,7 +4,7 @@
 | Tricky | `tricky` |
 | Fresh | `fresh` |
 | Yutani | `yutani` |
-| Spike | `spike` |
+| Spike | `bsPointyGuy` |
 | Frank | `frank` |
 | Ella | `ella` |
 | King | `king` |
@@ -242,29 +242,32 @@
 | Tara | `tara` |
 | Henry | `henry` |
 | Sunny | `sunny` |
-| 8 Ball Jake | `almaBrava` |
-| Piper | `mateo` |
-| El Primo | `jooWon` |
-| Spike | `siWoo` |
-| Dynamike | `mrGobbles` |
-| Poco | `rosie` |
-| Max | `ballerinaLatticina` |
-| Alma Brava | `frankNoir` |
-| Mateo | `holly` |
-| Crewmate Jake | `seanSnow` |
-| Crewmate Tricky | `mia` |
-| Crewmate Spike | `lorcan` |
-| Crewmate King | `horse` |
-| Crewmate Tasha | `amongUsBlack` |
-| Crewmate Guard | `amongUsCyan` |
-| Joo Won | `amongUsGreen` |
-| Si Woo | `amongUsRed` |
-| Mr. Gobbles | `amongUsRose` |
-| Rosie | `amongUsYellow` |
-| Ballerina Latticina | `asherSplasherOutfit` |
-| Frank Noir | `bertaSummerEleganzaOutfit` |
-| Holly | `bonnieThumperOutfit` |
-| Sean Snow | `bsBeardedGuy` |
-| Mia | `bsElegantGirl` |
-| Lorcan | `bsFastGirl` |
-| Horse | `bsPointyGuy` |
+| 8 Ball Jake | `eightBallJake` |
+| Piper | `bsElegantGirl` |
+| El Primo | `bsToughGuy` |
+| Spike | `spike` |
+| Dynamike | `bsBeardedGuy` |
+| Poco | `bsSkullGuy` |
+| Max | `bsFastGirl` |
+| Alma Brava | `almaBrava` |
+| Mateo | `mateo` |
+| Crewmate Jake | `amongUsRed` |
+| Crewmate Tricky | `amongUsYellow` |
+| Crewmate Spike | `amongUsBlack` |
+| Crewmate King | `amongUsCyan` |
+| Crewmate Tasha | `amongUsRose` |
+| Crewmate Guard | `amongUsGreen` |
+| Joo Won | `jooWon` |
+| Si Woo | `siWoo` |
+| Mr. Gobbles | `mrGobbles` |
+| Rosie | `rosie` |
+| Ballerina Latticina | `ballerinaLatticina` |
+| Frank Noir | `frankNoir` |
+| Holly | `holly` |
+| Sean Snow | `seanSnow` |
+| Mia | `mia` |
+| Rosalita | `rosalita` |
+| Lorcan | `lorcan` |
+| Horse | `horse` |
+| Vittorio | `vittorio` |
+| Enzo | `enzo` |

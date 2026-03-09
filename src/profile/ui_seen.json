@@ -10,25 +10,24 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S114",
+    "newSeasonPopupShownForID": "season_S115",
     "localMailsSeenEntries": {
-      "s113_winterxtreme_prereg_subcity_start": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_prereg_subcity_m1": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_prereg_subcity_m2": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_challenges": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_floorislava": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_next_season": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_one_run2": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_plantinvasion": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_presday_freebie": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_quests": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_season_challenge": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_seasonhunt": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_surferpass": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_updateGame_android": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s114_londonluckycreatures_welcome": "1970-01-01T00:00:00Z"
+      "s115_rome_challenges": "1970-01-01T00:00:00Z",
+      "s115_rome_floorislava": "1970-01-01T00:00:00Z",
+      "s115_rome_next_season": "1970-01-01T00:00:00Z",
+      "s115_rome_one_run1": "1970-01-01T00:00:00Z",
+      "s115_rome_one_run2": "1970-01-01T00:00:00Z",
+      "s115_rome_one_run3": "1970-01-01T00:00:00Z",
+      "s115_rome_plantinvasion": "1970-01-01T00:00:00Z",
+      "s115_rome_quests": "1970-01-01T00:00:00Z",
+      "s115_rome_season_challenge": "1970-01-01T00:00:00Z",
+      "s115_rome_seasonhunt": "1970-01-01T00:00:00Z",
+      "s115_rome_sodarush": "1970-01-01T00:00:00Z",
+      "s115_rome_surferpass": "1970-01-01T00:00:00Z",
+      "s115_rome_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s115_rome_updateGame_android": "1970-01-01T00:00:00Z",
+      "s115_rome_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s115_rome_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -71,67 +70,67 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S114_newStuff": {
+      "S115_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S114_newStuff_season_pass": {
+      "S115_newStuff_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S114_crew_bonus": {
+      "S115_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S114_crew_bonus_season_pass": {
+      "S115_crew_bonus_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "lorcan_bundle_promo": {
+      "vittorio_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "first_four_bundle_promo": {
+      "slay_the_pantheon_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "faithful_friends_bundle_promo": {
+      "four_piece_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "rebecaroar_deluxe_bundle_promo": {
+      "soul_deluxe_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "rocky_deluxe_bundle_promo": {
+      "lucky_7_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "hooved_horned_bundle_promo": {
+      "location_locked_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "dragon_starter_bundle_promo": {
+      "noble_newbie_starter_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "snake_starter_bundle_promo": {
+      "touristy_siblings_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "masquerade_bundle_promo": {
+      "legendary_team_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -236,7 +235,17 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
+      "uc_flashDeals_slot_01_season_pass": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
       "uc_flashDeals_slot_02": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_02_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -246,7 +255,17 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
+      "uc_flashDeals_slot_03_season_pass": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
       "uc_flashDeals_slot_04": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_04_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -256,7 +275,17 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
+      "uc_flashDeals_slot_05_season_pass": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
       "uc_flashDeals_slot_06": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_06_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -266,12 +295,27 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
+      "uc_flashDeals_slot_07_season_pass": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
       "uc_flashDeals_slot_08": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
+      "uc_flashDeals_slot_08_season_pass": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
       "uc_flashDeals_slot_09": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_09_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
