@@ -3225,6 +3225,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "springtimeOutfit"
             }
           ]
         }
@@ -3358,6 +3361,16 @@
           ]
         }
       },
+      "sprinkle": {
+        "value": {
+          "id": "sprinkle",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "asherSplasherOutfit": {
         "value": {
           "id": "asherSplasherOutfit",
@@ -3384,6 +3397,19 @@
           "ownedOutfits": [
             {
               "value": "default"
+            }
+          ]
+        }
+      },
+      "bunnyBetty": {
+        "value": {
+          "id": "bunnyBetty",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "redBunnyOutfit"
             }
           ]
         }

@@ -3697,6 +3697,19 @@
           }
         }
       },
+      "buzzbny": {
+        "value": {
+          "id": "buzzbny",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
       "majorSpeed": {
         "value": {
           "id": "majorSpeed",
@@ -3718,6 +3731,32 @@
               "value": true
             },
             "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "pixelPerfect": {
+        "value": {
+          "id": "pixelPerfect",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sunnySideUp": {
+        "value": {
+          "id": "sunnySideUp",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }

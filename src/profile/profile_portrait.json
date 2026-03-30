@@ -219,12 +219,20 @@
         "id": "valentina_illustration_portrait",
         "isSeen": true
       },
+      "yutanigiftgrifter_illustration_portrait": {
+        "id": "yutanigiftgrifter_illustration_portrait",
+        "isSeen": true
+      },
       "missmaia_illustration_portrait": {
         "id": "missmaia_illustration_portrait",
         "isSeen": true
       },
       "seansnow_illustration_portrait": {
         "id": "seansnow_illustration_portrait",
+        "isSeen": true
+      },
+      "vittorio_illustration_portrait": {
+        "id": "vittorio_illustration_portrait",
         "isSeen": true
       },
       "onihime_chillbilloutfit_illustration_portrait": {
@@ -237,10 +245,6 @@
       },
       "vivienne_hollywoodglamoutfit_portrait": {
         "id": "vivienne_hollywoodglamoutfit_portrait",
-        "isSeen": true
-      },
-      "yutanigiftgrifter_illustration_portrait": {
-        "id": "yutanigiftgrifter_illustration_portrait",
         "isSeen": true
       },
       "stevie_hitchhikeroutfit_illustration_portrait": {
@@ -347,16 +351,20 @@
         "id": "bstoughguy_illustration_portrait",
         "isSeen": true
       },
+      "bunnybetty_graffiti_portrait": {
+        "id": "bunnybetty_graffiti_portrait",
+        "isSeen": true
+      },
       "eightball_jake_illustration_portrait": {
         "id": "eightball_jake_illustration_portrait",
         "isSeen": true
       },
-      "mrgobbles_illustration_portrait": {
-        "id": "mrgobbles_illustration_portrait",
+      "lucy_illustration_portrait": {
+        "id": "lucy_illustration_portrait",
         "isSeen": true
       },
-      "vittorio_illustration_portrait": {
-        "id": "vittorio_illustration_portrait",
+      "mrgobbles_illustration_portrait": {
+        "id": "mrgobbles_illustration_portrait",
         "isSeen": true
       }
     }

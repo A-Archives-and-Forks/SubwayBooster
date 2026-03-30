@@ -10,24 +10,24 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S115",
+    "newSeasonPopupShownForID": "season_S116",
     "localMailsSeenEntries": {
-      "s115_rome_challenges": "1970-01-01T00:00:00Z",
-      "s115_rome_floorislava": "1970-01-01T00:00:00Z",
-      "s115_rome_next_season": "1970-01-01T00:00:00Z",
-      "s115_rome_one_run1": "1970-01-01T00:00:00Z",
-      "s115_rome_one_run2": "1970-01-01T00:00:00Z",
-      "s115_rome_one_run3": "1970-01-01T00:00:00Z",
-      "s115_rome_plantinvasion": "1970-01-01T00:00:00Z",
-      "s115_rome_quests": "1970-01-01T00:00:00Z",
-      "s115_rome_season_challenge": "1970-01-01T00:00:00Z",
-      "s115_rome_seasonhunt": "1970-01-01T00:00:00Z",
-      "s115_rome_sodarush": "1970-01-01T00:00:00Z",
-      "s115_rome_surferpass": "1970-01-01T00:00:00Z",
-      "s115_rome_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s115_rome_updateGame_android": "1970-01-01T00:00:00Z",
-      "s115_rome_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s115_rome_welcome": "1970-01-01T00:00:00Z"
+      "s116_easterireland_challenges": "1970-01-01T00:00:00Z",
+      "s116_easterireland_floorislava": "1970-01-01T00:00:00Z",
+      "s116_easterireland_next_season": "1970-01-01T00:00:00Z",
+      "s116_easterireland_one_run": "1970-01-01T00:00:00Z",
+      "s116_easterireland_plantinvasion": "1970-01-01T00:00:00Z",
+      "s116_easterireland_quests": "1970-01-01T00:00:00Z",
+      "s116_easterireland_reversechallenge": "1970-01-01T00:00:00Z",
+      "s116_easterireland_reversechallenge_sp": "1970-01-01T00:00:00Z",
+      "s116_easterireland_season_challenge": "1970-01-01T00:00:00Z",
+      "s116_easterireland_seasonhunt": "1970-01-01T00:00:00Z",
+      "s116_easterireland_showdown": "1970-01-01T00:00:00Z",
+      "s116_easterireland_surferpass": "1970-01-01T00:00:00Z",
+      "s116_easterireland_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s116_easterireland_updateGame_android": "1970-01-01T00:00:00Z",
+      "s116_easterireland_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s116_easterireland_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -70,67 +70,62 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S115_newStuff": {
+      "S116_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S115_newStuff_season_pass": {
+      "S116_newStuff_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S115_crew_bonus": {
+      "S116_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S115_crew_bonus_season_pass": {
+      "S116_crew_bonus_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "vittorio_bundle_promo": {
+      "sprinkle_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "slay_the_pantheon_bundle_promo": {
+      "easter_eggsheads_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "four_piece_bundle_promo": {
+      "whiterabbit_deluxe_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "soul_deluxe_bundle_promo": {
+      "george_deluxe_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "lucky_7_bundle_promo": {
+      "finlay_starter_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "location_locked_bundle_promo": {
+      "guard_king_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "noble_newbie_starter_bundle_promo": {
+      "easter_robots_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "touristy_siblings_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "legendary_team_promo": {
+      "fools_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

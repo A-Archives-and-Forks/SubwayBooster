@@ -271,3 +271,5 @@
 | Horse | `horse` |
 | Vittorio | `vittorio` |
 | Enzo | `enzo` |
+| Sprinkle | `sprinkle` |
+| Bunny Betty | None |
