@@ -90,4 +90,4 @@ jobs:
             temp/data/generic_challenges.json
 
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
