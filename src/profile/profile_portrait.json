@@ -119,6 +119,10 @@
         "id": "skateboard_graffiti_portrait",
         "isSeen": true
       },
+      "bunnybetty_graffiti_portrait": {
+        "id": "bunnybetty_graffiti_portrait",
+        "isSeen": true
+      },
       "jake_illustration_portrait": {
         "id": "jake_illustration_portrait",
         "isSeen": true
@@ -311,6 +315,10 @@
         "id": "soul_illustration_portrait",
         "isSeen": true
       },
+      "lucy_illustration_portrait": {
+        "id": "lucy_illustration_portrait",
+        "isSeen": true
+      },
       "sunny_graffiti_portrait": {
         "id": "sunny_graffiti_portrait",
         "isSeen": true
@@ -351,16 +359,8 @@
         "id": "bstoughguy_illustration_portrait",
         "isSeen": true
       },
-      "bunnybetty_graffiti_portrait": {
-        "id": "bunnybetty_graffiti_portrait",
-        "isSeen": true
-      },
       "eightball_jake_illustration_portrait": {
         "id": "eightball_jake_illustration_portrait",
-        "isSeen": true
-      },
-      "lucy_illustration_portrait": {
-        "id": "lucy_illustration_portrait",
         "isSeen": true
       },
       "mrgobbles_illustration_portrait": {

@@ -3684,6 +3684,22 @@
           }
         }
       },
+      "marbleous": {
+        "value": {
+          "id": "marbleous",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
       "arenaRider": {
         "value": {
           "id": "arenaRider",
@@ -3697,40 +3713,11 @@
           }
         }
       },
-      "buzzbny": {
-        "value": {
-          "id": "buzzbny",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            }
-          }
-        }
-      },
       "majorSpeed": {
         "value": {
           "id": "majorSpeed",
           "ownedUpgrades": {
             "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "marbleous": {
-        "value": {
-          "id": "marbleous",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            },
-            "doubleJump": {
               "value": true
             }
           }
@@ -3757,6 +3744,19 @@
           "id": "sunnySideUp",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "buzzbny": {
+        "value": {
+          "id": "buzzbny",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
               "value": true
             }
           }

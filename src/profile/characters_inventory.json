@@ -3371,6 +3371,19 @@
           ]
         }
       },
+      "bunnyBetty": {
+        "value": {
+          "id": "bunnyBetty",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "redBunnyOutfit"
+            }
+          ]
+        }
+      },
       "asherSplasherOutfit": {
         "value": {
           "id": "asherSplasherOutfit",
@@ -3397,19 +3410,6 @@
           "ownedOutfits": [
             {
               "value": "default"
-            }
-          ]
-        }
-      },
-      "bunnyBetty": {
-        "value": {
-          "id": "bunnyBetty",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            },
-            {
-              "value": "redBunnyOutfit"
             }
           ]
         }
@@ -3567,6 +3567,16 @@
       "raniUrbanVibesOutfit": {
         "value": {
           "id": "raniUrbanVibesOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "redino": {
+        "value": {
+          "id": "redino",
           "ownedOutfits": [
             {
               "value": "default"

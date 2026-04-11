@@ -309,3 +309,9 @@
 | Gold Rush | `goldRush` |
 | The Green Flame | `theGreenFlame` |
 | Lucky Fish | `luckyFish` |
+| Marbleous | `marbleous` |
+| Arena Rider | `arenaRider` |
+| Major Speed | `majorSpeed` |
+| Pixel Perfect | `pixelPerfect` |
+| Sunny Side Up | `sunnySideUp` |
+| Buzz BNY | `buzzbny` |

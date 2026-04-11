@@ -272,4 +272,4 @@
 | Vittorio | `vittorio` |
 | Enzo | `enzo` |
 | Sprinkle | `sprinkle` |
-| Bunny Betty | None |
+| Bunny Betty | `bunnyBetty` |

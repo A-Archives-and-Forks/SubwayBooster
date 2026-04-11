@@ -47,6 +47,10 @@
         "id": "winter_frame",
         "isSeen": true
       },
+      "easter_frame": {
+        "id": "easter_frame",
+        "isSeen": true
+      },
       "brawlstars_gems_frame": {
         "id": "brawlstars_gems_frame",
         "isSeen": true
@@ -73,10 +77,6 @@
       },
       "club_frame": {
         "id": "club_frame",
-        "isSeen": true
-      },
-      "easter_frame": {
-        "id": "easter_frame",
         "isSeen": true
       },
       "movieslate_frame": {
