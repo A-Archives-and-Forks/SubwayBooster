@@ -2380,6 +2380,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "skyAttackOutfit"
             }
           ]
         }
@@ -3380,6 +3383,29 @@
             },
             {
               "value": "redBunnyOutfit"
+            }
+          ]
+        }
+      },
+      "tsukiChan": {
+        "value": {
+          "id": "tsukiChan",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "kaito": {
+        "value": {
+          "id": "kaito",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "hayaKitsuneOutfit"
             }
           ]
         }

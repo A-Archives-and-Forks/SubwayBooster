@@ -10,24 +10,26 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S116",
+    "newSeasonPopupShownForID": "season_S117",
     "localMailsSeenEntries": {
-      "s116_easterireland_challenges": "1970-01-01T00:00:00Z",
-      "s116_easterireland_floorislava": "1970-01-01T00:00:00Z",
-      "s116_easterireland_next_season": "1970-01-01T00:00:00Z",
-      "s116_easterireland_one_run": "1970-01-01T00:00:00Z",
-      "s116_easterireland_plantinvasion": "1970-01-01T00:00:00Z",
-      "s116_easterireland_quests": "1970-01-01T00:00:00Z",
-      "s116_easterireland_reversechallenge": "1970-01-01T00:00:00Z",
-      "s116_easterireland_reversechallenge_sp": "1970-01-01T00:00:00Z",
-      "s116_easterireland_season_challenge": "1970-01-01T00:00:00Z",
-      "s116_easterireland_seasonhunt": "1970-01-01T00:00:00Z",
-      "s116_easterireland_showdown": "1970-01-01T00:00:00Z",
-      "s116_easterireland_surferpass": "1970-01-01T00:00:00Z",
-      "s116_easterireland_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s116_easterireland_updateGame_android": "1970-01-01T00:00:00Z",
-      "s116_easterireland_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s116_easterireland_welcome": "1970-01-01T00:00:00Z"
+      "s117_sakuratokyo_challenges": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_earthday": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_familyfun": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_floorislava": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_gamescombr": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_next_season": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_plantinvasion": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_quests": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_season_challenge": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_seasonhunt": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_showdown": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_soda_rush": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_surferpass": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_ukulele": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_updateGame_android": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s117_sakuratokyo_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -70,62 +72,67 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S116_newStuff": {
+      "S117_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S116_newStuff_season_pass": {
+      "S117_newStuff_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S116_crew_bonus": {
+      "S117_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S116_crew_bonus_season_pass": {
+      "S117_crew_bonus_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "sprinkle_bundle_promo": {
+      "tsukichan_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "easter_eggsheads_bundle_promo": {
+      "shinjuku_shenanigans_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "whiterabbit_deluxe_bundle_promo": {
+      "oni_hime_deluxe_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "george_deluxe_bundle_promo": {
+      "devil_wears_vivienne_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "finlay_starter_bundle_promo": {
+      "lucky_koi_starter_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "guard_king_bundle_promo": {
+      "board_awakens_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "easter_robots_bundle_promo": {
+      "captain_kaiju_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "fools_bundle_promo": {
+      "school_friends_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "getloud_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

@@ -273,3 +273,5 @@
 | Enzo | `enzo` |
 | Sprinkle | `sprinkle` |
 | Bunny Betty | `bunnyBetty` |
+| Tsuki-Chan | `tsukiChan` |
+| Kaito | `kaito` |

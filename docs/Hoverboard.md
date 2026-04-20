@@ -315,3 +315,6 @@
 | Pixel Perfect | `pixelPerfect` |
 | Sunny Side Up | `sunnySideUp` |
 | Buzz BNY | `buzzbny` |
+| Fox Trotter | None |
+| Fast Fur-ward | None |
+| Cathletic Ride | None |

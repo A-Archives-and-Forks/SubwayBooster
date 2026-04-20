@@ -23,6 +23,10 @@
         "id": "candycane_frame",
         "isSeen": true
       },
+      "earthday_frame": {
+        "id": "earthday_frame",
+        "isSeen": true
+      },
       "oxford_green_frame": {
         "id": "oxford_green_frame",
         "isSeen": true
@@ -79,12 +83,20 @@
         "id": "club_frame",
         "isSeen": true
       },
+      "koi_frame": {
+        "id": "koi_frame",
+        "isSeen": true
+      },
       "movieslate_frame": {
         "id": "movieslate_frame",
         "isSeen": true
       },
       "pvp_leaderboard_01_frame": {
         "id": "pvp_leaderboard_01_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_02_frame": {
+        "id": "pvp_leaderboard_02_frame",
         "isSeen": true
       },
       "stpatrick_frame": {
