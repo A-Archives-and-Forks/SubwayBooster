@@ -328,6 +328,9 @@
 | Off-Road Ranger | `offRoadRanger` |
 | Bay Drifter | `bayDrifter` |
 | Roo Rush | `rooRush` |
-| Je T'aime | None |
-| Sweet Elite | None |
-| Yellow Fellow | None |
+| Je T'aime | `jeTaime` |
+| Sweet Elite | `sweetElite` |
+| Yellow Fellow | `yellowFellow` |
+| Vulkarion | None |
+| Silver Flame | None |
+| Forest Force | None |

@@ -5,7 +5,7 @@
     "cityTourInstances": {},
     "completedCityTours": [],
     "activeGauntletInstance": {
-      "id": "s121_GauntletFootball_1",
+      "id": "s122_GauntletSchoolRush_1",
       "tiers": [
         {
           "claimed": true,
@@ -112,7 +112,7 @@
           "reward": {
             "reward": {
               "type": "ProfileFrame",
-              "id": "football_frame",
+              "id": "dragon_frame",
               "value": 1
             }
           }

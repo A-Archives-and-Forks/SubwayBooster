@@ -2,11 +2,11 @@
   "version": 2,
   "data": {
     "lastSaved": "1970-01-01T00:00:00Z",
-    "timeSlot": "season_S121",
+    "timeSlot": "season_S122",
     "progressPoints": 999999999,
     "questStates": {
       "daily": {
-        "globalTimeslotId": "season_S121",
+        "globalTimeslotId": "season_S122",
         "id": "daily",
         "titleKey": "ui.quests.section_daily",
         "type": 1,
@@ -89,14 +89,16 @@
           "type": 0
         },
         "refreshSetCost": {
-          "costKeys": [0],
+          "costKeys": [
+            0
+          ],
           "adWatch": false
         },
         "maxPaidRefresh": 3,
         "seenLatestChanges": true
       },
       "seasonal": {
-        "globalTimeslotId": "season_S121",
+        "globalTimeslotId": "season_S122",
         "id": "seasonal",
         "titleKey": "ui.quests.section_seasonal",
         "type": 2,

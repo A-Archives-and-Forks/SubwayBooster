@@ -51,6 +51,10 @@
         "id": "winter_frame",
         "isSeen": true
       },
+      "dragon_frame": {
+        "id": "dragon_frame",
+        "isSeen": true
+      },
       "plant_frame": {
         "id": "plant_frame",
         "isSeen": true
@@ -189,6 +193,10 @@
       },
       "pvp_leaderboard_06_frame": {
         "id": "pvp_leaderboard_06_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_07_frame": {
+        "id": "pvp_leaderboard_07_frame",
         "isSeen": true
       },
       "stpatrick_frame": {

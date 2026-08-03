@@ -2762,6 +2762,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "ogrepowerOutfit"
             }
           ]
         }
@@ -3807,6 +3810,29 @@
             },
             {
               "value": "bonVoyageOutfit"
+            }
+          ]
+        }
+      },
+      "runaDarko": {
+        "value": {
+          "id": "runaDarko",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "wolf": {
+        "value": {
+          "id": "wolf",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "heroOfRainOutfit"
             }
           ]
         }

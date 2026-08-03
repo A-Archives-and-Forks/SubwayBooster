@@ -403,12 +403,24 @@
         "id": "bstoughguy_illustration_portrait",
         "isSeen": true
       },
+      "bubbletea_graffiti_portrait": {
+        "id": "bubbletea_graffiti_portrait",
+        "isSeen": true
+      },
       "eightball_jake_illustration_portrait": {
         "id": "eightball_jake_illustration_portrait",
         "isSeen": true
       },
       "mrgobbles_illustration_portrait": {
         "id": "mrgobbles_illustration_portrait",
+        "isSeen": true
+      },
+      "runadarko_illustration_portrait": {
+        "id": "runadarko_illustration_portrait",
+        "isSeen": true
+      },
+      "wolf_illustration_portrait": {
+        "id": "wolf_illustration_portrait",
         "isSeen": true
       }
     }

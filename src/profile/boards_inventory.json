@@ -3966,6 +3966,45 @@
             }
           }
         }
+      },
+      "forestForce": {
+        "value": {
+          "id": "forestForce",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "silverFlame": {
+        "value": {
+          "id": "silverFlame",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "vulkarion": {
+        "value": {
+          "id": "vulkarion",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
       }
     }
   }

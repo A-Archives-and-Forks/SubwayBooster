@@ -284,4 +284,6 @@
 | Dan Under | `amongUsRose` |
 | Sandy | `amongUsGreen` |
 | Marie Macaron | `jooWon` |
-| Pierre | None |
+| Pierre | `jooWonAegyoOutfit` |
+| Runa & Darko | `siWoo` |
+| Wolf | None |
