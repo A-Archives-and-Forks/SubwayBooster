@@ -331,6 +331,9 @@
 | Je T'aime | `jeTaime` |
 | Sweet Elite | `sweetElite` |
 | Yellow Fellow | `yellowFellow` |
-| Vulkarion | None |
-| Silver Flame | None |
-| Forest Force | None |
+| Vulkarion | `vulkarion` |
+| Silver Flame | `silverFlame` |
+| Forest Force | `forestForce` |
+| Astro Belt | None |
+| Lunar Surfer | None |
+| Neo Glarx 4000 | None |

@@ -10,29 +10,35 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S122",
+    "newSeasonPopupShownForID": "season_S123",
     "localMailsSeenEntries": {
-      "s122_fantasyfest_challenges": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_floorislava": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_mega": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_next_season": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_plantinvasion": "1970-01-01T00:00:00Z",
-      "s122_subwayclassic_giveaway_india": "1970-01-01T00:00:00Z",
-      "s122_subwayclassic_giveaway_indonesia": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_quests": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_onerun_1": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_onerun_2": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_season_challenge": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_seasonhunt": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_showdown": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_soda_rush_1": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_soda_rush_2": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_soda_rush_3": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_surferpass": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_updateGame_android": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s122_fantasyfest_welcome": "1970-01-01T00:00:00Z"
+      "s123_cosmiccrossroads_challenges": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_floorislava": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_gamescom_de": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_lowgravity_1": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_lowgravity_2": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_lowgravity_3": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_mega": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_next_season": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_plantinvasion": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_quests": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_season_challenge": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_seasonhunt": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_showdown": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_soda_rush_1": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_soda_rush_2": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_soda_rush_3": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_soda_rush_4": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_soda_rush_5": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_soda_rush_6": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_soda_rush_7": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_soda_rush_8": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_soda_rush_9": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_surferpass": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_updateGame_android": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s123_cosmiccrossroads_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -40,62 +46,77 @@
     "popupSeenInfo": {},
     "lastSeenPopupTime": "1970-01-01T00:00:00Z",
     "promotionsSeenInfo": {
-      "runa_darko_mega_promo": {
+      "orion_starborn_mega_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "world_tour_warriors_promo": {
+      "bny_crew_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "tsuki_chan_deluxe_promo": {
+      "hall_pass_hijinks_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "the_perfect_party_promo": {
+      "blobbusters_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "bog_witch_project_promo": {
+      "kaito_starter_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "craft_me_outside_promo": {
+      "stars_of_the_galaxy_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "craft_me_outside_promo_season_pass": {
+      "touchdown_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "genies_in_a_bundle_promo": {
+      "frank_in_black_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S122_newStuff": {
+      "lucky_haengun_starter_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S122_newStuff_season_pass": {
+      "alien_vs_astronaut_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S122_crew_bonus": {
+      "space_orbit_rides_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S122_crew_bonus_season_pass": {
+      "S123_newStuff": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "S123_newStuff_season_pass": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "S123_crew_bonus": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "S123_crew_bonus_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

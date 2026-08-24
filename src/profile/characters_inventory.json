@@ -2752,6 +2752,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "galaxyEmpurrorOutfit"
             }
           ]
         }
@@ -3791,6 +3794,16 @@
           ]
         }
       },
+      "redino": {
+        "value": {
+          "id": "redino",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "marieMacaron": {
         "value": {
           "id": "marieMacaron",
@@ -3837,9 +3850,32 @@
           ]
         }
       },
-      "redino": {
+      "orionStarborn": {
         "value": {
-          "id": "redino",
+          "id": "orionStarborn",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "alpha": {
+        "value": {
+          "id": "alpha",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "omegaOutfit"
+            }
+          ]
+        }
+      },
+      "amongUsFrank": {
+        "value": {
+          "id": "amongUsFrank",
           "ownedOutfits": [
             {
               "value": "default"

@@ -5,7 +5,7 @@
     "cityTourInstances": {},
     "completedCityTours": [],
     "activeGauntletInstance": {
-      "id": "s122_GauntletSchoolRush_1",
+      "id": "s123_GauntletAmongus_2",
       "tiers": [
         {
           "claimed": true,
@@ -111,8 +111,8 @@
           "goal": 20,
           "reward": {
             "reward": {
-              "type": "ProfileFrame",
-              "id": "dragon_frame",
+              "type": "Character",
+              "id": "amongUsBlack.default",
               "value": 1
             }
           }

@@ -51,8 +51,8 @@
         "id": "winter_frame",
         "isSeen": true
       },
-      "dragon_frame": {
-        "id": "dragon_frame",
+      "galaxy_frame": {
+        "id": "galaxy_frame",
         "isSeen": true
       },
       "plant_frame": {
@@ -101,6 +101,10 @@
       },
       "brawlstars_gems_frame": {
         "id": "brawlstars_gems_frame",
+        "isSeen": true
+      },
+      "dragon_frame": {
+        "id": "dragon_frame",
         "isSeen": true
       },
       "collection_revamp_01_frame": {
@@ -197,6 +201,10 @@
       },
       "pvp_leaderboard_07_frame": {
         "id": "pvp_leaderboard_07_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_08_frame": {
+        "id": "pvp_leaderboard_08_frame",
         "isSeen": true
       },
       "stpatrick_frame": {

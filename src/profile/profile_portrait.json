@@ -23,6 +23,10 @@
         "id": "sandwich_graffiti_portrait",
         "isSeen": true
       },
+      "bubbletea_graffiti_portrait": {
+        "id": "bubbletea_graffiti_portrait",
+        "isSeen": true
+      },
       "ballerinatricky_portrait": {
         "id": "ballerinatricky_portrait",
         "isSeen": true
@@ -223,6 +227,10 @@
         "id": "mateosantocampooutfit_illustration_portrait",
         "isSeen": true
       },
+      "orionstarborn_illustration_portrait": {
+        "id": "orionstarborn_illustration_portrait",
+        "isSeen": true
+      },
       "mariemacaron_illustration_portrait": {
         "id": "mariemacaron_illustration_portrait",
         "isSeen": true
@@ -249,6 +257,14 @@
       },
       "tsukichan_illustration_portrait": {
         "id": "tsukichan_illustration_portrait",
+        "isSeen": true
+      },
+      "glorgalax_illustration_portrait": {
+        "id": "glorgalax_illustration_portrait",
+        "isSeen": true
+      },
+      "runadarko_illustration_portrait": {
+        "id": "runadarko_illustration_portrait",
         "isSeen": true
       },
       "yutanigiftgrifter_illustration_portrait": {
@@ -363,6 +379,10 @@
         "id": "lucy_illustration_portrait",
         "isSeen": true
       },
+      "wolf_illustration_portrait": {
+        "id": "wolf_illustration_portrait",
+        "isSeen": true
+      },
       "sunny_graffiti_portrait": {
         "id": "sunny_graffiti_portrait",
         "isSeen": true
@@ -403,24 +423,12 @@
         "id": "bstoughguy_illustration_portrait",
         "isSeen": true
       },
-      "bubbletea_graffiti_portrait": {
-        "id": "bubbletea_graffiti_portrait",
-        "isSeen": true
-      },
       "eightball_jake_illustration_portrait": {
         "id": "eightball_jake_illustration_portrait",
         "isSeen": true
       },
       "mrgobbles_illustration_portrait": {
         "id": "mrgobbles_illustration_portrait",
-        "isSeen": true
-      },
-      "runadarko_illustration_portrait": {
-        "id": "runadarko_illustration_portrait",
-        "isSeen": true
-      },
-      "wolf_illustration_portrait": {
-        "id": "wolf_illustration_portrait",
         "isSeen": true
       }
     }

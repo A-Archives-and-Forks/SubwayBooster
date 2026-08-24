@@ -3967,11 +3967,17 @@
           }
         }
       },
-      "forestForce": {
+      "vulkarion": {
         "value": {
-          "id": "forestForce",
+          "id": "vulkarion",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            },
+            "highSpeed": {
               "value": true
             }
           }
@@ -3990,17 +3996,50 @@
           }
         }
       },
-      "vulkarion": {
+      "forestForce": {
         "value": {
-          "id": "vulkarion",
+          "id": "forestForce",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "astroBelt": {
+        "value": {
+          "id": "astroBelt",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "glider": {
+            "highSpeed": {
               "value": true
             },
-            "highSpeed": {
+            "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "lunarSurfer": {
+        "value": {
+          "id": "lunarSurfer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "neoGlarx4000": {
+        "value": {
+          "id": "neoGlarx4000",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
               "value": true
             }
           }

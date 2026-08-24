@@ -283,7 +283,11 @@
 | Lestari | `amongUsCyan` |
 | Dan Under | `amongUsRose` |
 | Sandy | `amongUsGreen` |
-| Marie Macaron | `jooWon` |
-| Pierre | `jooWonAegyoOutfit` |
-| Runa & Darko | `siWoo` |
-| Wolf | None |
+| Redino | `jooWon` |
+| Marie Macaron | `jooWonAegyoOutfit` |
+| Pierre | `siWoo` |
+| Runa & Darko | `mrGobbles` |
+| Wolf | `rosie` |
+| Orion Starborn | `rosieautumnSpiceOutfit` |
+| Alpha | None |
+| Crewmate Frank | None |
