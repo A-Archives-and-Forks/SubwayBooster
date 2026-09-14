@@ -289,5 +289,8 @@
 | Runa & Darko | `mrGobbles` |
 | Wolf | `rosie` |
 | Orion Starborn | `rosieautumnSpiceOutfit` |
-| Alpha | None |
-| Crewmate Frank | None |
+| Alpha | `ballerinaLatticina` |
+| Crewmate Frank | `frankNoir` |
+| Santi Grafito | `holly` |
+| Matilda | None |
+| Bbno$ | None |

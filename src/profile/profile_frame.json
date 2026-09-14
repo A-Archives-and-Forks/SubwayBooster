@@ -67,6 +67,10 @@
         "id": "glorx_frame",
         "isSeen": true
       },
+      "comic_frame": {
+        "id": "comic_frame",
+        "isSeen": true
+      },
       "lava_frame": {
         "id": "lava_frame",
         "isSeen": true
@@ -205,6 +209,10 @@
       },
       "pvp_leaderboard_08_frame": {
         "id": "pvp_leaderboard_08_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_09_frame": {
+        "id": "pvp_leaderboard_09_frame",
         "isSeen": true
       },
       "stpatrick_frame": {

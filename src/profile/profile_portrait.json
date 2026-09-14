@@ -23,6 +23,10 @@
         "id": "sandwich_graffiti_portrait",
         "isSeen": true
       },
+      "sandwich_illustration_portrait": {
+        "id": "sandwich_illustration_portrait",
+        "isSeen": true
+      },
       "bubbletea_graffiti_portrait": {
         "id": "bubbletea_graffiti_portrait",
         "isSeen": true
@@ -235,6 +239,10 @@
         "id": "mariemacaron_illustration_portrait",
         "isSeen": true
       },
+      "santigrafito_illustration_portrait": {
+        "id": "santigrafito_illustration_portrait",
+        "isSeen": true
+      },
       "chickenjake_illustration_portrait": {
         "id": "chickenjake_illustration_portrait",
         "isSeen": true
@@ -357,6 +365,10 @@
       },
       "berta_illustration_portrait": {
         "id": "berta_illustration_portrait",
+        "isSeen": true
+      },
+      "tasha_illustration_portrait": {
+        "id": "tasha_illustration_portrait",
         "isSeen": true
       },
       "pins_illustration_portrait": {

@@ -2315,6 +2315,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "pixelProOutfit"
             }
           ]
         }
@@ -3876,6 +3879,39 @@
       "amongUsFrank": {
         "value": {
           "id": "amongUsFrank",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "santiGrafito": {
+        "value": {
+          "id": "santiGrafito",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "matilda": {
+        "value": {
+          "id": "matilda",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "comicCoreOutfit"
+            }
+          ]
+        }
+      },
+      "bbno$": {
+        "value": {
+          "id": "bbno$",
           "ownedOutfits": [
             {
               "value": "default"

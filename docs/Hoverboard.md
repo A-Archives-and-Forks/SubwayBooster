@@ -334,6 +334,6 @@
 | Vulkarion | `vulkarion` |
 | Silver Flame | `silverFlame` |
 | Forest Force | `forestForce` |
-| Astro Belt | None |
-| Lunar Surfer | None |
-| Neo Glarx 4000 | None |
+| Astro Belt | `astroBelt` |
+| Lunar Surfer | `lunarSurfer` |
+| Neo Glarx 4000 | `neoGlarx4000` |

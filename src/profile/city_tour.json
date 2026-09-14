@@ -5,7 +5,7 @@
     "cityTourInstances": {},
     "completedCityTours": [],
     "activeGauntletInstance": {
-      "id": "s123_GauntletAmongus_2",
+      "id": "s124_GauntletSodacan_1",
       "tiers": [
         {
           "claimed": true,
@@ -111,8 +111,8 @@
           "goal": 20,
           "reward": {
             "reward": {
-              "type": "Character",
-              "id": "amongUsBlack.default",
+              "type": "ProfileFrame",
+              "id": "comic_frame",
               "value": 1
             }
           }

@@ -4044,6 +4044,45 @@
             }
           }
         }
+      },
+      "digiDash": {
+        "value": {
+          "id": "digiDash",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "plankenstein": {
+        "value": {
+          "id": "plankenstein",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sketchySkater": {
+        "value": {
+          "id": "sketchySkater",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
       }
     }
   }
