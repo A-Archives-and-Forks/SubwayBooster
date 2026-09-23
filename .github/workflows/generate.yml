@@ -49,7 +49,7 @@ jobs:
           python script/generate_boards.py
           python script/playerprofile.py
           python script/userstats.py
-          python script/collection.py
+          python script/collectionrevamp.py
           python script/challenges.py
           python script/calender.py
           python script/achievements.py

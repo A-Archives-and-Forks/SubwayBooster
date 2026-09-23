@@ -49,7 +49,7 @@ def get_scripts(version, onlydownload, nodownload, zipfiles):
         ["script/generate_boards.py"],
         ["script/playerprofile.py"],
         ["script/userstats.py"],
-        ["script/collection.py"],
+        ["script/collectionrevamp.py"],
         ["script/challenges.py"],
         ["script/calender.py"],
         ["script/achievements.py"],
